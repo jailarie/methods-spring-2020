@@ -32,6 +32,7 @@ https://www.python.org/downloads/
 ```
 $ python3 NoDuplicates.py
 ```
+use 'py' instead of 'python3' if you are using Windows.
 or you can open and run the script in Visual Studio Code with the interpreter configured correctly.
 
 You could also use IDE such as PyCharm.
